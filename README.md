@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working as *Team Lead Java Development.*
 
-- 🔭 I’m currently working on *Spring Boot, Microservices, Elasticsearch, Kafka, Apache Camel,React,Typescript,Agile, Team Mangement, Rest and SOAP Integration*
+- 🔭 I’m currently working on *Spring Boot, Microservices, Elasticsearch, Kafka, Apache Camel, React,Typescript,Agile, Team Mangement, Rest and SOAP Integration*
 
 - 🌱 I’m currently learning *Application Architecure, ReactJs, NodeJs and Different integration module.*
 
